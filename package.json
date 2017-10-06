@@ -1,0 +1,14 @@
+{
+  "name": "autograder",
+  "version": "1.0.0",
+  "description": "Automated grader for gradescope implemented with JavaScript + headless chrome",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jonathan Easterman",
+  "license": "ISC",
+  "dependencies": {
+    "puppeteer": "^0.11.0"
+  }
+}
